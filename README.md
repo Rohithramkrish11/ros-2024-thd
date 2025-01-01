@@ -27,7 +27,7 @@ Open the terminal (**Ctrl+Alt+T**) and enter the following commands in sequence:
 
 The _git clone_ command allows you to download files from a remote server to your local computer. Therefore, the _git clone_ command is specified first, followed by a link to the remote repository.
 
-    git clone git@github.com:THD-autonomous-system/ros-2023-thd.git
+    git clone git@github.com:THD-autonomous-system/ros-2024-thd.git
     
 If you do not have an SSH key configured, the git will return an error, this can be corrected as follows:
 
@@ -52,7 +52,7 @@ Press ENTER several times when required
 You need to go into the downloaded folder and go into the docker folder.
 
 
-    cd ros-2023-thd/docker
+    cd ros-2024-thd/docker
 
 If you don't have an Nvidia graphics card, run the command:
 
